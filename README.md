@@ -4,7 +4,7 @@ A CNN-based deep learning application that classifies images as **Cat** or **Dog
 
 ## 🎥 Demo
 
-[▶️ Watch the Demo]()
+![Cat & Dog Classification Demo](demo.gif)
 
 ## ✨ Features
 
